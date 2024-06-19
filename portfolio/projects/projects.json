@@ -1,0 +1,34 @@
+[
+  
+  
+    {
+      "name": "AgriLearnNetwork Website",
+      "desc": "AgriLearnNetwork is a platform designed to empower farming enthusiasts with essential insights and resources for successful agriculture practices.",
+      "image": "AgriLearnNetwork",
+      "category": "basicweb",
+      "links": {
+        "view": "https://suchitra-sahoo.github.io/AgriLearnNetwork/",
+        "code": "https://github.com/Suchitra-Sahoo/AgriLearnNetwork"
+      }
+    },
+    {
+      "name": "Amazon Clone",
+      "desc": "Creating clone of Amazone homepage using technology HTML and CSS ",
+      "image": "amazon",
+      "category": "basicweb",
+      "links": {
+        "view": "https://suchitra-sahoo.github.io/Amazon-clone2/",
+        "code": "https://github.com/Suchitra-Sahoo/Amazon-clone2"
+      }
+    },
+    {
+      "name": "MomsGourmet Tiffin Service",
+      "desc": "Created frontend of a tiffin service website using HTML and CSS",
+      "image": "MomsGourmet",
+      "category": "basicweb",
+      "links": {
+        "view": "https://suchitra-sahoo.github.io/MomsGourmet/",
+        "code": "https://github.com/Suchitra-Sahoo/MomsGourmet"
+      }
+    }
+  ]
