@@ -12,23 +12,23 @@
       }
     },
     {
+      "name": "bookStore",
+      "desc": "bookStore is a robust platform crafted with React.js, Node.js, MongoDB, and Express.js. It offers a comprehensive collection of books across various genres.",
+      "image": "bookStore",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": "https://github.com/Suchitra-Sahoo/bookStore"
+      }
+    },
+    {
       "name": "Amazon Clone",
-      "desc": "Creating clone of Amazone homepage using technology HTML and CSS ",
+      "desc": "Created clone of Amazone homepage using technology HTML and CSS ",
       "image": "amazon",
       "category": "basicweb",
       "links": {
         "view": "https://suchitra-sahoo.github.io/Amazon-clone2/",
         "code": "https://github.com/Suchitra-Sahoo/Amazon-clone2"
-      }
-    },
-    {
-      "name": "MomsGourmet Tiffin Service",
-      "desc": "Created frontend of a tiffin service website using HTML and CSS",
-      "image": "MomsGourmet",
-      "category": "basicweb",
-      "links": {
-        "view": "https://suchitra-sahoo.github.io/MomsGourmet/",
-        "code": "https://github.com/Suchitra-Sahoo/MomsGourmet"
       }
     }
   ]
