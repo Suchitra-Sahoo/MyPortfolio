@@ -22,6 +22,16 @@
       }
     },
     {
+      "name": "Startup Nexus",
+      "desc": "Developing a virtual incubator platform for Microsoft AI Project submission, designed to intelligently match startups with investors, resources, and mentorship opportunities.",
+      "image": "nexus",
+      "category": "basicweb",
+      "links": {
+        "view": "https://startup-nexus-three.vercel.app/",
+        "code": "https://github.com/Suchitra-Sahoo/StartupNexus"
+      }
+    },
+    {
       "name": "Amazon Clone",
       "desc": "Created clone of Amazone homepage using technology HTML and CSS ",
       "image": "amazon",
