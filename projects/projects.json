@@ -32,6 +32,16 @@
       }
     },
     {
+      "name": "TEN Marketing",
+      "desc": "Designed a responsive marketing website for influencer hiring, focusing on user registration, profile management, andoptimal SEO for enhanced visibility and user experience. ",
+      "image": "TEN Marketing",
+      "category": "basicweb",
+      "links": {
+        "view": "influencer-marketing-kappa.vercel.app/",
+        "code": "https://github.com/Suchitra-Sahoo/Influencer-Marketing-Agency"
+      }
+    },
+    {
       "name": "Amazon Clone",
       "desc": "Created clone of Amazone homepage using technology HTML and CSS ",
       "image": "amazon",
