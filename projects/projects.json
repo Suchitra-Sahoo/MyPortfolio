@@ -12,13 +12,13 @@
       }
     },
     {
-      "name": "bookStore",
-      "desc": "bookStore is a robust platform crafted with React.js, Node.js, MongoDB, and Express.js. It offers a comprehensive collection of books across various genres.",
-      "image": "bookStore",
+      "name": "TEN-HR Consulting",
+      "desc": "Empowering businesses with expert HR solutions tailored to drive growth and success. Simplify recruitment, compliance, and employee management with our trusted consulting services.",
+      "image": "HR",
       "category": "basicweb",
       "links": {
         "view": "",
-        "code": "https://github.com/Suchitra-Sahoo/bookStore"
+        "code": "https://ten-hr-consulting-alpha.vercel.app/"
       }
     },
     {
@@ -37,8 +37,8 @@
       "image": "TEN Marketing",
       "category": "basicweb",
       "links": {
-        "view": "influencer-marketing-kappa.vercel.app/",
-        "code": "https://github.com/Suchitra-Sahoo/Influencer-Marketing-Agency"
+        "view": "https://influencer-marketing-kappa.vercel.app/",
+        "code": "https://influencer-marketing-kappa.vercel.app/"
       }
     },
     {
